@@ -1,3 +1,3 @@
 # claude-setup
 
-stuff
+## claude-scripts: scripts for custom slash commands:wq
